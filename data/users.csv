@@ -1,0 +1,22 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,phone.mobile,phone.home
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,male,9876543210,2023456789
+Priya,Sharma,28,B-102 Green Valley,MG Road,Bangalore,Karnataka,female,9123456780,8012345678
+Amit,Kumar,42,C-45 Sunflower Apartments,Sector 12,Noida,Uttar Pradesh,male,9234567891,1123456789
+Sneha,Patel,19,D-78 Rose Garden,Park Street,Kolkata,West Bengal,female,9345678902,3323456789
+Rajesh,Verma,55,E-234 Lake View,Anna Salai,Chennai,Tamil Nadu,male,9456789013,4423456789
+Anita,Singh,31,F-567 Horizon Towers,Camp Area,Pune,Maharashtra,female,9567890124,2023456780
+Vikram,Reddy,68,G-89 Silver Oak,Banjara Hills,Hyderabad,Telangana,male,9678901235,4023456789
+Kavita,Joshi,23,H-123 Palm Grove,Koramangala,Bangalore,Karnataka,female,9789012346,8023456789
+Suresh,Nair,47,I-456 Maple Street,Kakkanad,Kochi,Kerala,male,9890123457,4823456789
+Deepa,Gupta,38,J-789 Cedar Lane,Vasant Vihar,New Delhi,Delhi,female,9901234568,1123456780
+Arun,Menon,62,K-321 Pine Valley,Whitefield,Bangalore,Karnataka,male,9012345679,8023456780
+Pooja,Rao,26,L-654 Oak Residency,Viman Nagar,Pune,Maharashtra,female,9123456790,2023456781
+Manoj,Tiwari,51,M-987 Birch Homes,Gomti Nagar,Lucknow,Uttar Pradesh,male,9234567801,5223456789
+Ritu,Mishra,33,N-147 Willow Park,Aundh,Pune,Maharashtra,female,9345678912,2023456782
+Sandeep,Chopra,44,O-258 Elm Street,Cyber City,Gurgaon,Haryana,male,9456789023,1243456789
+Neha,Desai,18,P-369 Ashok Nagar,C.G. Road,Ahmedabad,Gujarat,female,9567890134,7923456789
+Karthik,Iyer,59,Q-741 Jayanagar,4th Block,Bangalore,Karnataka,male,9678901245,8023456781
+Divya,Kulkarni,29,R-852 Shivaji Park,Dadar,Mumbai,Maharashtra,female,9789012356,2223456789
+Rahul,Bhatt,36,S-963 Andheri East,MIDC,Mumbai,Maharashtra,male,9890123467,2223456780
+Swati,Pandey,65,T-159 Indira Nagar,Sector 15,Lucknow,Uttar Pradesh,female,9901234578,5223456780
+
